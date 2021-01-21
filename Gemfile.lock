@@ -1,5 +1,7 @@
-PATH
-  remote: engines/books_module
+GIT
+  remote: https://github.com/rbarrosodev/books_module
+  revision: c22a38b3733447002b551964adb55d879a2bf968
+  branch: main
   specs:
     books_module (0.1.0)
       rails (~> 5.2.4, >= 5.2.4.4)

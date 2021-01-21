@@ -59,3 +59,4 @@ group :test do
 end
 
 gem 'devise'
+gem 'books_module', git: 'https://github.com/rbarrosodev/books_module', branch: 'main'
