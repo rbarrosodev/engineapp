@@ -59,4 +59,3 @@ group :test do
 end
 
 gem 'devise'
-gem 'books_module', path: 'engines/books_module'
